@@ -33,3 +33,8 @@ git branch gh-pages -> crear rama nueva (sola una vez por proyecto)
 git checkout gh-pages -> cambiarme a la rama recién creada
 
 git push origin gh-pages -> crear la rama en la nube (repositorio remoto de github)
+
+
+desde rama gh-pages -> git merge main
+
+git push origin gh-pages
