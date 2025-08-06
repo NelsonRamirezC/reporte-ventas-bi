@@ -15,3 +15,10 @@ Trabajando con GITHUB
 -> git add .
 -> git commit -m "Mi primera versión del reporte"
 -> git push origin main
+
+
+------------------------------------------------------
+
+comandos de estado y monitoreo
+git status
+git log
