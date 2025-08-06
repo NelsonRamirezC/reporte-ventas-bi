@@ -1,0 +1,17 @@
+PASO N° configuración de las credenciales de GITHUB en visual studio code
+
+-> git config --list : permite verificar las credenciales
+
+-> git config --global user.name "Mi nombre"
+-> git config --global user.email "nramirez@edutecno.com"
+
+
+----------------------------------------------------------------
+Trabajando con GITHUB
+
+-> git init : se ejecuta 1 vez por proyecto
+
+------------------------------------------------------
+-> git add .
+-> git commit -m "Mi primera versión del reporte"
+-> git push origin main
