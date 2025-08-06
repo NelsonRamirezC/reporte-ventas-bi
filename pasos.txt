@@ -22,3 +22,14 @@ Trabajando con GITHUB
 comandos de estado y monitoreo
 git status
 git log
+
+
+------------------------------------------------------
+
+cambiar de rama (crear)
+
+git branch gh-pages -> crear rama nueva (sola una vez por proyecto)
+
+git checkout gh-pages -> cambiarme a la rama recién creada
+
+git push origin gh-pages -> crear la rama en la nube (repositorio remoto de github)
